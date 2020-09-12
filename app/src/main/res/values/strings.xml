@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Attendance Manager</string>
+    <string name="hb1">ADD NEW STUDENTS</string>
+    <string name="hb2">TAKE ATTENDANCE</string>
+    <string name="hb3">ATTENDANCE RECORDS</string>
+    <string name="hb4">ABOUT APP</string>
+
+    <string name="cce1">Enter class FE/SE/TE/BE</string>
+    <string name="cce2">Enter Branch </string>
+    <string name="cce3">Enter Subject</string>
+    <string name="ccb1">Create class</string>
+
+    <string name="ase1">Enter Roll Number(Integer only)</string>
+    <string name="ase2">Enter Name of Student</string>
+    <string name="ase3">Enter class/branch/subject as SEITOOPS</string>
+    <string name="asb1">ADD STUDENT</string>
+    <string name="asb2">BACK TO MENU</string>
+    <string name="asb3">DELETE STUDENT</string>
+    <string name="asb4">DELETE ALL STUDENTS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
