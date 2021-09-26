@@ -5,6 +5,8 @@ The main motive behind this software is to replace the traditional pen and regis
 Smart phones are based on operating systems like blackberry, IOS and Android. To design this project, smart phones with Android operating system are chosen because penetration rate of Android OS is 70 percent. 
 It is an open source and free ware operating system. The application is compatible with all Android versions starting from 4.2 Jelly Bean.
 
+![](https://github.com/SldinkarGECA/Attendance-Manager-app/blob/add-license-1/GIF-210926_213853.gif)
+
 All the attendance management systems are time consuming and unsafe. In the proposed project Android based attendance system is designed which is less time consuming, safe and easy to implement because:
 User Friendly: 
 This software is user friendly as it is simple to use and the user doesn’t need any special training to use this software. Data evaluation, data storing and retrieval is easy and doesn’t need any heavy calculation or method. The UI is simple and easy to understand. 
@@ -12,4 +14,7 @@ Minimal paper work:
 There is no paper work required. Data are stored automatically in the system. Evaluation are done automatically. Hence it is cost effective too. 
 Time Saving: 
 Data storing, data retrieval, data evaluation is done at minimum time hence it is time saving producing data with minimal errors.
-[Download app:](https://github.com/SldinkarGECA/Attendance-Manager-app/raw/master/app-debug.apk)
+
+
+
+[Download app for demo](https://github.com/SldinkarGECA/Attendance-Manager-app/raw/master/app-debug.apk)
