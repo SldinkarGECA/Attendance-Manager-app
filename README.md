@@ -1,4 +1,8 @@
+
+
 # Attendance-Manager-app
+
+[Download app for demo](https://github.com/SldinkarGECA/Attendance-Manager-app/raw/master/app-debug.apk)
 Nowadays, mobile devices have become a way of life for students especially in higher education. Computers are now replaced by compact smart phones that can fit into pocket and can be carried anywhere. 
 Attendance Management System is an application for taking daily attendance in schools and colleges. It provides minimal error in report generation of a particular student’s attendance. 
 The main motive behind this software is to replace the traditional pen and register system. Another reason for developing this software is to generate the report automatically at the end of the session or in the between of the session. 
